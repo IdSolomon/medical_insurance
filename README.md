@@ -1,10 +1,12 @@
 # Greetings and salutations!
 
-Supposedly, in this project, I am a medical professional curious about 
-how certain factors contribute to medical insurance costs.
+This is, supposedly, part 2 of the medical insurance project. 
+I am, once again, a medical professional and this time, I am curious about 
+how certain factors such as age, sex, BMI, number of children, and smoking 
+status contribute to medical insurance costs.
 
-Using a formula that estimates a person's yearly insurance costs, I will 
-investigate how different factors such as age, sex, BMI, etc. affect the prediction.
+I will apply my newfound knowledge of Python functions to write a useful function that 
+calculates medical insurance costs.
 
 ### Note --
 
